@@ -64,7 +64,7 @@ export default function HeroSection() {
             </span>
             <br />
             <span className="text-white michroma-regular text-4xl md:text-4xl mr-5">
-              Unlocking</span><span className="text-white michroma-regular text-4xl md:text-4xl">Opportunities
+              Unlocking Opportunities
             </span>
           </motion.h1>
 
