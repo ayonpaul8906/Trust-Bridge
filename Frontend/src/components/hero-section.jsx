@@ -125,7 +125,7 @@ export default function HeroSection() {
             
             {/* 3. NEW USER VIEW (No Role Set) - Shows Launch Dashboard by Default */}
             {!role && (
-                 <Link to="/auth">
+                 <Link to="/auth-selector">
                     <Button className="relative z-50 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white rounded-full px-8 py-6 text-lg shadow-lg shadow-blue-900/20 transition-transform hover:scale-105 poppins-regular">
                       Launch Dashboard
                       <ArrowRight className="ml-2 w-4 h-4" />
