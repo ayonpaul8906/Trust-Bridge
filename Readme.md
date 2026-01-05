@@ -158,4 +158,4 @@ lenders/
 
 - 📧 Email: [Arnab Ghosh](garnab559@gmail.com)
 - 💬 Discord: *Coming Soon*
-- 🛠 GitHub: [TrustBridge](https://github.com/tulu-g559/TrustBridge)
+- 🛠 GitHub: [Trust-Bridge](https://github.com/tulu-g559/Trust-Bridge)
